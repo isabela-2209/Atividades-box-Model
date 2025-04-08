@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.caixa {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(190, 26, 127);
+    margin: 20px;
+    padding: 30px;
+    border: 2px solid rgba(0, 0, 0, 0.032);
+}
+
+.caixa-dois {
+    width: 150px;
+    height: 100px;
+    background-color: rgb(25, 130, 228);
+    margin: 20px;
+    padding: 10px;
+    border: 5px solid rgb(13, 30, 189);
+    }
+
+    .caixa-tres {
+        width: 200px;
+        height: 100px;
+        background-color: rgb(8, 224, 184);
+        margin: 20px;
+        padding: 10px;
+        border: 2px solid black;
+        margin-left: 100px;
+        }
+
+
+        .caixa-bônus {
+            width: 300px;
+            height: 150px;
+            background-color: rgb(138, 8, 224);
+            margin: 40px auto;
+            padding: 10px;
+            border: dashed 4px white;
+            display: flex;
+            justify-content: center;
+            align-items: center
+            }
+
